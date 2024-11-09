@@ -33,7 +33,8 @@ Before running the Jupyter notebook, ensure you have the following dependencies 
 - **openpyxl:** Required for reading and writing Excel files
 - **re:** Python’s built-in regular expression module
 
-To install the necessary packages, use the following:
+**To install the necessary packages, use the following:**
+```bash
 pip install pandas openpyxl
-
+```
 
