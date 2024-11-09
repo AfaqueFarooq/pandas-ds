@@ -38,3 +38,5 @@ Before running the Jupyter notebook, ensure you have the following dependencies 
 pip install pandas openpyxl
 ```
 
+![image](pandas-logo.png)
+
